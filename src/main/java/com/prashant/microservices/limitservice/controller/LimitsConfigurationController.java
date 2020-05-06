@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.prashant.microservices.limitservice;
+package com.prashant.microservices.limitservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
